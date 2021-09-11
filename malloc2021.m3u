@@ -33,13 +33,13 @@ https://5d00db0e0fcd5.streamlock.net:443/7032/7032/playlist.m3u8
 https://5d00db0e0fcd5.streamlock.net:443/7476/7476/playlist.m3u8
 
 #EXTINF:10, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11680401_ico.png?ts=1631352770" tvg-name="ELGEE VISION "  group-title="Local Channel",ELGEE VISION 
-https://5d00db0e0fcd5.streamlock.net:443/7178/7178/playlist.m3u8
+https://5a1178b42cc03.streamlock.net/8204/8204/playlist.m3u8
 
 #EXTINF:11, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11334784_ico.png?ts=1631352786" tvg-name="ETV BHARATH "  group-title="Local Channel",ETV BHARATH 
 https://etvbharatlive7.akamaized.net/hls/live/710673/kerala/index.m3u8
 
 #EXTINF:12, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11329378_ico.png?ts=1631352803" tvg-name="FOX TV "  group-title="Local Channel",FOX TV 
-https://5d00db0e0fcd5.streamlock.net/7038/7038/playlist.m3u8
+https://5a1178b42cc03.streamlock.net/8218/8218/playlist.m3u8
 
 #EXTINF:13, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10817959_ico.png?ts=1631352820" tvg-name="GARSHOM TV "  group-title="Local Channel",GARSHOM TV 
 http://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
@@ -84,7 +84,7 @@ http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 
 #EXTINF:27, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11334261_ico.png?ts=1631353292" tvg-name="KLTV "  group-title="Local Channel",KLTV 
-https://5d00db0e0fcd5.streamlock.net:443/7158/7158/playlist.m3u8
+https://5a1178b42cc03.streamlock.net/8110/8110/playlist.m3u8
 
 #EXTINF:28, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11331359_ico.png?ts=1631353524" tvg-name="LIVE TV KERALA "  group-title="Local Channel",LIVE TV KERALA 
 https://ott.ufworldind.in/livetvkerala/livetvkerala/playlist.m3u8
@@ -159,19 +159,19 @@ http://live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
 http://cloud.logicwebs.in:1935/ubl/ublchannel/chunklist_w875749225.m3u8
 
 #EXTINF:54, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11331385_ico.png?ts=1631354307" tvg-name="VBC NEWS "  group-title="Local Channel",VBC NEWS 
-https://5d00db0e0fcd5.streamlock.net:443/7522/7522/chunklist_w1482865117.m3u8
+https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
 
 #EXTINF:55, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11329374_ico.png?ts=1631354324" tvg-name="VCV VISION "  group-title="Local Channel",VCV VISION 
-https://5d00db0e0fcd5.streamlock.net:443/7234/7234/playlist.m3u8
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 
 #EXTINF:56, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11328180_ico.png?ts=1631354342" tvg-name="VETTAM "  group-title="Local Channel",VETTAM 
 https://cloudflare-cdn301.ottpro.in/vettam/vettam/playlist.m3u8
 
 #EXTINF:57, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11515310_ico.png?ts=1631354359" tvg-name="VENAD NEWS "  group-title="Local Channel",VENAD NEWS 
-https://5d00db0e0fcd5.streamlock.net:443/7442/7442/playlist.m3u8
+https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
 
 #EXTINF:58, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11515307_ico.png?ts=1631354376" tvg-name="V9 NEWS "  group-title="Local Channel",V9 NEWS 
-https://5d00db0e0fcd5.streamlock.net:443/7502/7502/playlist.m3u8
+https://5a1178b42cc03.streamlock.net/8180/8180/playlist.m3u8
 
 #EXTINF:59, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11101234_ico.png?ts=1631354393" tvg-name="WAYANAD VISION "  group-title="Local Channel",WAYANAD VISION 
 http://adhiyarnetworks.in/wayanadvisionhls/wayanadvision.m3u8
@@ -182,7 +182,11 @@ http://123.456.789
 #EXTINF:61, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11334775_ico.png?ts=1631354427" tvg-name="WORLDNET "  group-title="Local Channel",WORLDNET 
 https://account16.livebox.co.in/Worldnethls/live.m3u8
 
-#EXTINF:62, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10817248_ico.png?ts=1631354479" tvg-name="WORD TO WORLD "  group-title="Local Channel",WORD TO WORLD 
-http://live.wmncdn.net/worldtoworld/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:62, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15611670_ico.png?ts=1631398891"tvg-name="CDNEWS "  group-title="Local Channel",CDNEWS 
+https://5a1178b42cc03.streamlock.net/8174/8174/playlist.m3u8
 
+#EXTINF:63, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12606869_ico.png?ts=1631399322"tvg-name="STARNET "  group-title="Local Channel",STARNET 
+https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 
+#EXTINF:64, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12606869_ico.png?ts=1631399322"tvg-name="AB VISION "  group-title="Local Channel",ABVISION 
+https://5a1178b42cc03.streamlock.net/8214/8214/playlist.m3u8
