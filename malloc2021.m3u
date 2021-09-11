@@ -1,0 +1,5 @@
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="malock"  group-title="New Group",malock
+http://123.456.789
+
