@@ -5,6 +5,7 @@ https://playback.akamaized.net/streams/25038049_7483919_lsibz7klyej46r8pryr_1/me
 
 #EXTINF:02, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12606873_ico.png?ts=1631354182" tvg-name="SHALOM AMERICA "  group-title="Local Channel",SHALOM AMERICA 
 https://playback.akamaized.net/streams/25038049_7987357_lsiue8cvd1bnnfwym0c_1/media/25038049_7987357_lsiue8cvd1bnnfwym0c_1@2756000p.m3u8?dw=14400&ts=1631390400&hdnts=exp=1631565153~acl=/streams/25038049_7987357_lsiue8cvd1bnnfwym0c_1/media*~hmac=e5e3c4a5d250bbd851006fc2e17e49bb1d06ee0eb81ca8102d02ceb41fa9b49d
+
 #EXTINF:1, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10814758_ico.png?ts=1631352622" tvg-name="ACV NEWS "  group-title="Local Channel",ACV NEWS 
 https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
 
@@ -190,3 +191,6 @@ https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 
 #EXTINF:64, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12606869_ico.png?ts=1631399322"tvg-name="AB VISION "  group-title="Local Channel",ABVISION 
 https://5a1178b42cc03.streamlock.net/8214/8214/playlist.m3u8
+
+#EXTINF:65, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11331359_ico.png?ts=1631353524" tvg-name="EN24 NEWS "  group-title="Local Channel",EN24 NEWS 
+https://5a1178b42cc03.streamlock.net/8024/8024/playlist.m3u8
