@@ -1,205 +1,137 @@
 #EXTM3U
-
-#EXTINF:01, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10786607_ico.png?ts=1631354165" tvg-name="SHALOM TV "  group-title="Local Channel",SHALOM TV 
-https://playback.akamaized.net/streams/25038049_7483919_lsibz7klyej46r8pryr_1/media/25038049_7483919_lsibz7klyej46r8pryr_1@2756000p.m3u8?dw=14400&ts=1631390400&hdnts=exp=1631563529~acl=/streams/25038049_7483919_lsibz7klyej46r8pryr_1/media*~hmac=9d11ddbee153e6c82479c43181e25026db9806731a52e740d5d89a6731f0c0e1
-
-#EXTINF:02, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12606873_ico.png?ts=1631354182" tvg-name="SHALOM AMERICA "  group-title="Local Channel",SHALOM AMERICA 
-https://playback.akamaized.net/streams/25038049_7987357_lsiue8cvd1bnnfwym0c_1/media/25038049_7987357_lsiue8cvd1bnnfwym0c_1@2756000p.m3u8?dw=14400&ts=1631390400&hdnts=exp=1631565153~acl=/streams/25038049_7987357_lsiue8cvd1bnnfwym0c_1/media*~hmac=e5e3c4a5d250bbd851006fc2e17e49bb1d06ee0eb81ca8102d02ceb41fa9b49d
-
-#EXTINF:1, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10814758_ico.png?ts=1631352622" tvg-name="ACV NEWS "  group-title="Local Channel",ACV NEWS 
-https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
-
-#EXTINF:2, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10633818_ico.png?ts=1631352639" tvg-name="ACV PLUS "  group-title="Local Channel",ACV PLUS 
-https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
-
-#EXTINF:3, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10633878_ico.png?ts=1631352655" tvg-name="ANAND TV HD "  group-title="Local Channel",ANAND TV HD 
-https://live-anandtv.anandmedia.net/anandtvapp/anandtv/tracks-v1a1/mono.m3u8
-
-#EXTINF:4, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15259332_ico.png?ts=1631352672" tvg-name="A.J.NET "  group-title="Local Channel",A.J.NET 
-http://rtmp.logicwebs.in:1935/live/ajnet/playlist.m3u8
-
-#EXTINF:5, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11334782_ico.png?ts=1631352688" tvg-name="CANADIAN MALAYALAM TV "  group-title="Local Channel",CANADIAN MALAYALAM TV 
-https://cmalayalam.livebox.co.in/CMALAYALAMTVhls/live.m3u8
-
-#EXTINF:6, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12108920_ico.png?ts=1631352704" tvg-name="CCV "  group-title="Local Channel",CCV 
-https://5d00db0e0fcd5.streamlock.net:443/7228/7228/playlist.m3u8
-
-#EXTINF:7, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10873784_ico.png?ts=1631352721" tvg-name="CCTV NEWS "  group-title="Local Channel",CCTV NEWS 
-http://live.wmncdn.net/cctv/a03e3acc5f2e77d60fbb9d3dac889236.sdp/index.m3u8
-
-#EXTINF:8, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11329393_ico.png?ts=1631352737" tvg-name="CITY CHANNEL "  group-title="Local Channel",CITY CHANNEL 
-https://5d00db0e0fcd5.streamlock.net:443/7032/7032/playlist.m3u8
-
-#EXTINF:9, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11515343_ico.png?ts=1631352754" tvg-name="EAGLE ONE "  group-title="Local Channel",EAGLE ONE 
-https://5d00db0e0fcd5.streamlock.net:443/7476/7476/playlist.m3u8
-
-#EXTINF:10, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11680401_ico.png?ts=1631352770" tvg-name="ELGEE VISION "  group-title="Local Channel",ELGEE VISION 
-https://5a1178b42cc03.streamlock.net/8204/8204/playlist.m3u8
-
-#EXTINF:11, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11334784_ico.png?ts=1631352786" tvg-name="ETV BHARATH "  group-title="Local Channel",ETV BHARATH 
-https://etvbharatlive7.akamaized.net/hls/live/710673/kerala/index.m3u8
-
-#EXTINF:12, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11329378_ico.png?ts=1631352803" tvg-name="FOX TV "  group-title="Local Channel",FOX TV 
-https://5a1178b42cc03.streamlock.net/8218/8218/playlist.m3u8
-
-#EXTINF:13, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10817959_ico.png?ts=1631352820" tvg-name="GARSHOM TV "  group-title="Local Channel",GARSHOM TV 
-http://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-
-#EXTINF:14, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10817692_ico.png?ts=1631352836" tvg-name="GOODNESS TV "  group-title="Local Channel",GOODNESS TV 
-https://live.wmncdn.net/goodnesstv1/live1.stream/index.m3u8
-
-#EXTINF:15, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11680395_ico.png?ts=1631352852" tvg-name="GOSREE VISION "  group-title="Local Channel",GOSREE VISION 
-https://5a1178b42cc03.streamlock.net/8068/8068/playlist.m3u8
-
-#EXTINF:16, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10817700_ico.png?ts=1631352869" tvg-name="GREGORIAN TV "  group-title="Local Channel",GREGORIAN TV 
+#EXTINF:-1 tvg-name="GREGORIAN TV" tvg-id="New EPG" group-title="Christian Devotional" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10817700_ico.png?ts=1631352869",GREGORIAN TV
 http://xlbor3kkqvaj-hls-live.wmncdn.net/gregoriantv/86d7fdf25c11d39dd3ca51c992186354.sdp/chunks.m3u8
-
-#EXTINF:17, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10817250_ico.png?ts=1631352885" tvg-name="HARVEST TV "  group-title="Local Channel",HARVEST TV 
+#EXTINF:-1 tvg-name="GOODNESS TV" tvg-id="New EPG" group-title="Christian Devotional" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10817692_ico.png?ts=1631352836",GOODNESS TV
+https://live.wmncdn.net/goodnesstv1/live1.stream/index.m3u8
+#EXTINF:-1 tvg-name="SHALOM TV" tvg-id="New EPG" group-title="Christian Devotional" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10786607_ico.png?ts=1631354165",SHALOM TV
+https://playback.akamaized.net/streams/25038049_7483919_lsibz7klyej46r8pryr_1/media/25038049_7483919_lsibz7klyej46r8pryr_1@2756000p.m3u8?dw=14400&ts=1631390400&hdnts=exp=1631563529~acl=/streams/25038049_7483919_lsibz7klyej46r8pryr_1/media*~hmac=9d11ddbee153e6c82479c43181e25026db9806731a52e740d5d89a6731f0c0e1
+#EXTINF:-1 tvg-name="SHALOM AMERICA" tvg-id="New EPG" group-title="Christian Devotional" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12606873_ico.png?ts=1631354182",SHALOM AMERICA
+https://playback.akamaized.net/streams/25038049_7987357_lsiue8cvd1bnnfwym0c_1/media/25038049_7987357_lsiue8cvd1bnnfwym0c_1@2756000p.m3u8?dw=14400&ts=1631390400&hdnts=exp=1631565153~acl=/streams/25038049_7987357_lsiue8cvd1bnnfwym0c_1/media*~hmac=e5e3c4a5d250bbd851006fc2e17e49bb1d06ee0eb81ca8102d02ceb41fa9b49d
+#EXTINF:-1 tvg-name="HARVEST TV" tvg-id="New EPG" group-title="Christian Devotional" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10817250_ico.png?ts=1631352885",HARVEST TV
 https://live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/chunks.m3u8
-
-#EXTINF:18, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11298572_ico.png?ts=1631352901" tvg-name="I MALAYALI "  group-title="Local Channel",I MALAYALI 
-https://stream.ufworldind.in/imalayali/imalayali/playlist.m3u8
-
-#EXTINF:19, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15259334_ico.png?ts=1631352918" tvg-name="KCV MOVIES "  group-title="Local Channel",KCV MOVIES 
-http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
-
-#EXTINF:20, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11334780_ico.png?ts=1631352935" tvg-name="KALIKA TV "  group-title="Local Channel",KALIKA TV 
-http://185.105.4.245:1935/livesp/kalika/playlist.m3u8
-
-#EXTINF:21, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11328178_ico.png?ts=1631352953" tvg-name="KANNUR ONE "  group-title="Local Channel",KANNUR ONE 
-https://bnwdplewrp3a-hls-live.wmncdn.net:443/kannur1/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-
-#EXTINF:22, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11261277_ico.png?ts=1631352968" tvg-name="KANNUR VISION "  group-title="Local Channel",KANNUR VISION 
-https://stream.ufworldind.in/live/kvision/playlist.m3u8
-
-#EXTINF:23, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10712801_ico.png?ts=1631352984" tvg-name="KCL "  group-title="Local Channel",KCL 
-https://kcltv.livebox.co.in/kclhls/live.m3u8
-
-#EXTINF:24, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11331372_ico.png?ts=1631353000" tvg-name="KEN TV "  group-title="Local Channel",KEN TV 
-https://stream.ufworldind.in/kentvlive/smil:kentv.smil/playlist.m3u8
-
-#EXTINF:25, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10633960_ico.png?ts=1631353237" tvg-name="KERALA VISION "  group-title="Local Channel",KERALA VISION 
-http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01)/index.m3u8
-
-#EXTINF:26, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10633896_ico.png?ts=1631353250" tvg-name="KITE-VICTERS "  group-title="Local Channel",KITE-VICTERS 
-https://live.wmncdn.net/victers/live.stream/chunks.m3u8
-
-#EXTINF:27, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11334261_ico.png?ts=1631353292" tvg-name="KLTV "  group-title="Local Channel",KLTV 
-https://5a1178b42cc03.streamlock.net/8110/8110/playlist.m3u8
-
-#EXTINF:28, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11331359_ico.png?ts=1631353524" tvg-name="LIVE TV KERALA "  group-title="Local Channel",LIVE TV KERALA 
-https://ott.ufworldind.in/livetvkerala/livetvkerala/playlist.m3u8
-
-#EXTINF:29, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10634157_ico.png?ts=1631353323" tvg-name="M4 MALAYALAM "  group-title="Local Channel",M4 MALAYALAM 
-https://app.m4stream.live/mfourmalayalamhls/live.m3u8
-
-#EXTINF:30, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11259448_ico.png?ts=1631353337" tvg-name="MALAPPURAM CHANNEL "  group-title="Local Channel",MALAPPURAM CHANNEL 
-http://103.78.18.137:1935/live/mlpchannel/chunklist_w739483785.m3u8
-
-#EXTINF:31, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11515286_ico.png?ts=1631353354" tvg-name="MALA VISION "  group-title="Local Channel",MALA VISION 
-https://5d00db0e0fcd5.streamlock.net:443/7182/7182/playlist.m3u8
-
-#EXTINF:32, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12108922_ico.png?ts=1631353367" tvg-name="METRO 7 TV "  group-title="Local Channel",METRO 7 TV 
-http://weone.livebox.co.in/Metro7hls/Metro7.m3u8
-
-#EXTINF:33, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11515418_ico.png?ts=1631353382" tvg-name="MOLLYWOOD TV "  group-title="Local Channel",MOLLYWOOD TV 
-https://m-c09-j2apps.s.llnwi.net/hls/8004.Mollywood.in.m3u8
-
-#EXTINF:34, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10712904_ico.png?ts=1631353398" tvg-name="MALANADU TV "  group-title="Local Channel",MALANADU TV 
-https://5k8q87bpdy4v-hls-live.wmncdn.net/mtvnews/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-
-#EXTINF:35, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12039046_ico.png?ts=1631353589" tvg-name="MEDIA PLUS TV "  group-title="Local Channel",MEDIA PLUS TV 
-https://ilove.livebox.co.in/wowinhls/live.m3u8
-
-#EXTINF:36, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11680400_ico.png?ts=1631353603" tvg-name="MANDRA TV "  group-title="Local Channel",MANDRA TV 
-https://royalstarindia.co.in/mandra_hls/mandra.m3u8
-
-#EXTINF:37, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11331364_ico.png?ts=1631353620" tvg-name="NILA 24 LIVE "  group-title="Local Channel",NILA 24 LIVE 
-https://ott.ufworldind.in/nila24/nila24/playlist.m3u8
-
-#EXTINF:38, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11329373_ico.png?ts=1631353635" tvg-name="ONE TV "  group-title="Local Channel",ONE TV 
-http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
-
-#EXTINF:39, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10712906_ico.png?ts=1631353750" tvg-name="PULARI TV "  group-title="Local Channel",PULARI TV 
-https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
-
-#EXTINF:40, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11515422_ico.png?ts=1631353765" tvg-name="PRAVASI CHANNEL HD "  group-title="Local Channel",PRAVASI CHANNEL HD 
-https://5ee50688d7b5d.streamlock.net:444/live/pravasi/playlist.m3u8
-
-#EXTINF:41, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10816624_ico.png?ts=1631353782" tvg-name="POWER VISION "  group-title="Local Channel",POWER VISION 
-https://www.youtube.com/embed/L42NP9a8paw
-
-#EXTINF:42, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11258066_ico.png?ts=1631353800" tvg-name="PTA NEWS "  group-title="Local Channel",PTA NEWS 
-http://137.59.86.218:1935/live/ptanews/chunklist_w55043305.m3u8
-
-#EXTINF:43, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11652515_ico.png?ts=1631354045" tvg-name="PROPEX TV "  group-title="Local Channel",PROPEX TV 
-http://cdn.propextv.com/propextvcdn/propextv/tracks-v1a1/mono.m3u8
-
-#EXTINF:44, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11515402_ico.png?ts=1631354062" tvg-name="PRIME TV "  group-title="Local Channel",PRIME TV 
-https://5d00db0e0fcd5.streamlock.net:443/7042/7042/playlist.m3u8
-
-#EXTINF:45, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10707786_ico.png?ts=1631354079" tvg-name="REAL NEWS KERALA "  group-title="Local Channel",REAL NEWS KERALA 
-https://m-c010-j2apps.s.llnwi.net/hls/7082.RealNewskerela.in_480p/index.m3u8
-
-#EXTINF:46, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11259446_ico.png?ts=1631354096" tvg-name="RASI MALAYALAM HD "  group-title="Local Channel",RASI MALAYALAM HD 
-http://singamcloud.in/rasinetwork/rasimalayalam/playlist.m3u8
-
-#EXTINF:47, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11259446_ico.png?ts=1631354096" tvg-name="RASI MOVIES "  group-title="Local Channel",RASI MOVIES 
-http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
-
-#EXTINF:48, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11328188_ico.png?ts=1631354130" tvg-name="REAL TV "  group-title="Local Channel",REAL TV 
-http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8
-
-#EXTINF:49, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10633901_ico.png?ts=1631354147" tvg-name="SAFARI "  group-title="Local Channel",SAFARI 
-https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-
-#EXTINF:52, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10873787_ico.png?ts=1631354537" tvg-name="UTVPKD "  group-title="Local Channel",UTVPKD 
-http://live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
-
-#EXTINF:53, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10873587_ico.png?ts=1631354290" tvg-name="UBL TV "  group-title="Local Channel",UBL TV 
-http://cloud.logicwebs.in:1935/ubl/ublchannel/chunklist_w875749225.m3u8
-
-#EXTINF:54, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11331385_ico.png?ts=1631354307" tvg-name="VBC NEWS "  group-title="Local Channel",VBC NEWS 
-https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
-
-#EXTINF:55, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11329374_ico.png?ts=1631354324" tvg-name="VCV VISION "  group-title="Local Channel",VCV VISION 
-https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
-
-#EXTINF:56, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11328180_ico.png?ts=1631354342" tvg-name="VETTAM "  group-title="Local Channel",VETTAM 
-https://cloudflare-cdn301.ottpro.in/vettam/vettam/playlist.m3u8
-
-#EXTINF:57, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11515310_ico.png?ts=1631354359" tvg-name="VENAD NEWS "  group-title="Local Channel",VENAD NEWS 
-https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
-
-#EXTINF:58, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11515307_ico.png?ts=1631354376" tvg-name="V9 NEWS "  group-title="Local Channel",V9 NEWS 
-https://5a1178b42cc03.streamlock.net/8180/8180/playlist.m3u8
-
-#EXTINF:59, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11101234_ico.png?ts=1631354393" tvg-name="WAYANAD VISION "  group-title="Local Channel",WAYANAD VISION 
-http://adhiyarnetworks.in/wayanadvisionhls/wayanadvision.m3u8
-
-#EXTINF:60, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="WE ONE NEWS "  group-title="Local Channel",WE ONE NEWS 
-http://123.456.789
-
-#EXTINF:61, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11334775_ico.png?ts=1631354427" tvg-name="WORLDNET "  group-title="Local Channel",WORLDNET 
+#EXTINF:-1 tvg-name="WORLDNET" tvg-id="New EPG" group-title="Christian Devotional" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11334775_ico.png?ts=1631354427",WORLDNET
 https://account16.livebox.co.in/Worldnethls/live.m3u8
-
-#EXTINF:62, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15611670_ico.png?ts=1631398891"tvg-name="CDNEWS "  group-title="Local Channel",CDNEWS 
+#EXTINF:-1 tvg-name="POWER VISION" tvg-id="New EPG" group-title="Christian Devotional" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10816624_ico.png?ts=1631353782",POWER VISION
+https://www.youtube.com/embed/L42NP9a8paw
+#EXTINF:-1 tvg-name="ANAND TV HD" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10633878_ico.png?ts=1631352655",ANAND TV HD
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="CCV" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12108920_ico.png?ts=1631352704",CCV
+https://5d00db0e0fcd5.streamlock.net:443/7228/7228/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV NEWS" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10873784_ico.png?ts=1631352721",CCTV NEWS
+http://live.wmncdn.net/cctv/a03e3acc5f2e77d60fbb9d3dac889236.sdp/index.m3u8
+#EXTINF:-1 tvg-name="CITY CHANNEL" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11329393_ico.png?ts=1631352737",CITY CHANNEL
+https://5d00db0e0fcd5.streamlock.net:443/7032/7032/playlist.m3u8
+#EXTINF:-1 tvg-name="EAGLE ONE" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11515343_ico.png?ts=1631352754",EAGLE ONE
+https://5d00db0e0fcd5.streamlock.net:443/7476/7476/playlist.m3u8
+#EXTINF:-1 tvg-name="ELGEE VISION" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11680401_ico.png?ts=1631352770",ELGEE VISION
+https://5a1178b42cc03.streamlock.net/8204/8204/playlist.m3u8
+#EXTINF:-1 tvg-name="ETV BHARATH" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11334784_ico.png?ts=1631352786",ETV BHARATH
+https://etvbharatlive7.akamaized.net/hls/live/710673/kerala/index.m3u8
+#EXTINF:-1 tvg-name="FOX TV" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11329378_ico.png?ts=1631352803",FOX TV
+https://5a1178b42cc03.streamlock.net/8218/8218/playlist.m3u8
+#EXTINF:-1 tvg-name="GARSHOM TV" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10817959_ico.png?ts=1631352820",GARSHOM TV
+http://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 tvg-name="GOSREE VISION" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11680395_ico.png?ts=1631352852",GOSREE VISION
+https://5a1178b42cc03.streamlock.net/8068/8068/playlist.m3u8
+#EXTINF:-1 tvg-name="CANADIAN MALAYALAM TV" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11334782_ico.png?ts=1631352688",CANADIAN MALAYALAM TV
+https://cmalayalam.livebox.co.in/CMALAYALAMTVhls/live.m3u8
+#EXTINF:-1 tvg-name="I MALAYALI" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11298572_ico.png?ts=1631352901",I MALAYALI
+https://stream.ufworldind.in/imalayali/imalayali/playlist.m3u8
+#EXTINF:-1 tvg-name="KCV MOVIES" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15259334_ico.png?ts=1631352918",KCV MOVIES
+http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
+#EXTINF:-1 tvg-name="KALIKA TV" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11334780_ico.png?ts=1631352935",KALIKA TV
+http://185.105.4.245:1935/livesp/kalika/playlist.m3u8
+#EXTINF:-1 tvg-name="KANNUR ONE" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11328178_ico.png?ts=1631352953",KANNUR ONE
+https://bnwdplewrp3a-hls-live.wmncdn.net:443/kannur1/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 tvg-name="KANNUR VISION" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11261277_ico.png?ts=1631352968",KANNUR VISION
+https://stream.ufworldind.in/live/kvision/playlist.m3u8
+#EXTINF:-1 tvg-name="KCL" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10712801_ico.png?ts=1631352984",KCL
+https://kcltv.livebox.co.in/kclhls/live.m3u8
+#EXTINF:-1 tvg-name="KEN TV" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11331372_ico.png?ts=1631353000",KEN TV
+https://stream.ufworldind.in/kentvlive/smil:kentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="KERALA VISION" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10633960_ico.png?ts=1631353237",KERALA VISION
+http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-name="KITE-VICTERS" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10633896_ico.png?ts=1631353250",KITE-VICTERS
+https://live.wmncdn.net/victers/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="KLTV" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11334261_ico.png?ts=1631353292",KLTV
+https://5a1178b42cc03.streamlock.net/8110/8110/playlist.m3u8
+#EXTINF:-1 tvg-name="LIVE TV KERALA" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11331359_ico.png?ts=1631353524",LIVE TV KERALA
+https://ott.ufworldind.in/livetvkerala/livetvkerala/playlist.m3u8
+#EXTINF:-1 tvg-name="M4 MALAYALAM" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10634157_ico.png?ts=1631353323",M4 MALAYALAM
+https://app.m4stream.live/mfourmalayalamhls/live.m3u8
+#EXTINF:-1 tvg-name="MALAPPURAM CHANNEL" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11259448_ico.png?ts=1631353337",MALAPPURAM CHANNEL
+http://103.78.18.137:1935/live/mlpchannel/chunklist_w739483785.m3u8
+#EXTINF:-1 tvg-name="MALA VISION" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11515286_ico.png?ts=1631353354",MALA VISION
+https://5d00db0e0fcd5.streamlock.net:443/7182/7182/playlist.m3u8
+#EXTINF:-1 tvg-name="METRO 7 TV" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12108922_ico.png?ts=1631353367",METRO 7 TV
+http://weone.livebox.co.in/Metro7hls/Metro7.m3u8
+#EXTINF:-1 tvg-name="MOLLYWOOD TV" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11515418_ico.png?ts=1631353382",MOLLYWOOD TV
+https://m-c09-j2apps.s.llnwi.net/hls/8004.Mollywood.in.m3u8
+#EXTINF:-1 tvg-name="MALANADU TV" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10712904_ico.png?ts=1631353398",MALANADU TV
+https://5k8q87bpdy4v-hls-live.wmncdn.net/mtvnews/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 tvg-name="MEDIA PLUS TV" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12039046_ico.png?ts=1631353589",MEDIA PLUS TV
+https://ilove.livebox.co.in/wowinhls/live.m3u8
+#EXTINF:-1 tvg-name="MANDRA TV" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11680400_ico.png?ts=1631353603",MANDRA TV
+https://royalstarindia.co.in/mandra_hls/mandra.m3u8
+#EXTINF:-1 tvg-name="NILA 24 LIVE" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11331364_ico.png?ts=1631353620",NILA 24 LIVE
+https://ott.ufworldind.in/nila24/nila24/playlist.m3u8
+#EXTINF:-1 tvg-name="ONE TV" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11329373_ico.png?ts=1631353635",ONE TV
+http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
+#EXTINF:-1 tvg-name="PULARI TV" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10712906_ico.png?ts=1631353750",PULARI TV
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+#EXTINF:-1 tvg-name="PRAVASI CHANNEL HD" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11515422_ico.png?ts=1631353765",PRAVASI CHANNEL HD
+https://5ee50688d7b5d.streamlock.net:444/live/pravasi/playlist.m3u8
+#EXTINF:-1 tvg-name="PTA NEWS" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11258066_ico.png?ts=1631353800",PTA NEWS
+http://137.59.86.218:1935/live/ptanews/chunklist_w55043305.m3u8
+#EXTINF:-1 tvg-name="PROPEX TV" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11652515_ico.png?ts=1631354045",PROPEX TV
+http://cdn.propextv.com/propextvcdn/propextv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="REAL NEWS KERALA" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10707786_ico.png?ts=1631354079",REAL NEWS KERALA
+https://m-c010-j2apps.s.llnwi.net/hls/7082.RealNewskerela.in_480p/index.m3u8
+#EXTINF:-1 tvg-name="REAL TV" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11328188_ico.png?ts=1631354130",REAL TV
+http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8
+#EXTINF:-1 tvg-name="SAFARI" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10633901_ico.png?ts=1631354147",SAFARI
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="UTVPKD" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10873787_ico.png?ts=1631354537",UTVPKD
+http://live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
+#EXTINF:-1 tvg-name="UBL TV" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10873587_ico.png?ts=1631354290",UBL TV
+http://cloud.logicwebs.in:1935/ubl/ublchannel/chunklist_w875749225.m3u8
+#EXTINF:-1 tvg-name="VBC NEWS" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11331385_ico.png?ts=1631354307",VBC NEWS
+https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
+#EXTINF:-1 tvg-name="VCV VISION" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11329374_ico.png?ts=1631354324",VCV VISION
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+#EXTINF:-1 tvg-name="VETTAM" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11328180_ico.png?ts=1631354342",VETTAM
+https://cloudflare-cdn301.ottpro.in/vettam/vettam/playlist.m3u8
+#EXTINF:-1 tvg-name="VENAD NEWS" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11515310_ico.png?ts=1631354359",VENAD NEWS
+https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
+#EXTINF:-1 tvg-name="V9 NEWS" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11515307_ico.png?ts=1631354376",V9 NEWS
+https://5a1178b42cc03.streamlock.net/8180/8180/playlist.m3u8
+#EXTINF:-1 tvg-name="WAYANAD VISION" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11101234_ico.png?ts=1631354393",WAYANAD VISION
+http://adhiyarnetworks.in/wayanadvisionhls/wayanadvision.m3u8
+#EXTINF:-1 tvg-name="CDNEWS" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15611670_ico.png?ts=1631398891",CDNEWS
 https://5a1178b42cc03.streamlock.net/8174/8174/playlist.m3u8
-
-#EXTINF:63, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12606869_ico.png?ts=1631399322"tvg-name="STARNET "  group-title="Local Channel",STARNET 
+#EXTINF:-1 tvg-name="STARNET" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12606869_ico.png?ts=1631399322",STARNET
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
-
-#EXTINF:64, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12606869_ico.png?ts=1631399322"tvg-name="AB VISION "  group-title="Local Channel",ABVISION 
+#EXTINF:-1 tvg-name="AB VISION" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12606869_ico.png?ts=1631399322",ABVISION
 https://5a1178b42cc03.streamlock.net/8214/8214/playlist.m3u8
-
-#EXTINF:65, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11331359_ico.png?ts=1631353524" tvg-name="EN24 NEWS "  group-title="Local Channel",EN24 NEWS 
+#EXTINF:-1 tvg-name="EN24 NEWS" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11331359_ico.png?ts=1631353524",EN24 NEWS
 https://5a1178b42cc03.streamlock.net/8024/8024/playlist.m3u8
-
-#EXTINF:66, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12606869_ico.png?ts=1631399322"tvg-name="CD NEWS  "  group-title="Local Channel",CD NEWS 
+#EXTINF:-1 tvg-name="CD NEWS" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12606869_ico.png?ts=1631399322",CD NEWS
 https://5a1178b42cc03.streamlock.net/8174/8174/playlist.m3u8
-
-#EXTINF:67, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15619223_ico.png?ts=1631444125"tvg-name="MOVIE M  "  group-title="Local Channel",MOVIE M 
+#EXTINF:-1 tvg-name="MOVIE M" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15619223_ico.png?ts=1631444125",MOVIE M
 https://5a1178b42cc03.streamlock.net/8178/8178/playlist.m3u8
-
-#EXTINF:68, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12108920_ico.png?ts=1631446020"tvg-name="CCV  "  group-title="Local Channel",CCV 
+#EXTINF:-1 tvg-name="CCV" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12108920_ico.png?ts=1631446020",CCV
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
+#EXTINF:-1 tvg-name="WE ONE NEWS" tvg-id="New EPG" group-title="Local Channel" tvg-logo="New Logo",WE ONE NEWS
+http://123.456.789
+#EXTINF:-1 tvg-name="RASI MALAYALAM HD" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11259446_ico.png?ts=1631354096",RASI MALAYALAM HD
+http://singamcloud.in/rasinetwork/rasimalayalam/playlist.m3u8
+#EXTINF:-1 tvg-name="RASI MOVIES" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11259446_ico.png?ts=1631354096",RASI MOVIES
+http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
+#EXTINF:-1 tvg-name="PRIME TV" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11515402_ico.png?ts=1631354062",PRIME TV
+https://5d00db0e0fcd5.streamlock.net:443/7042/7042/playlist.m3u8
+#EXTINF:-1 tvg-name="A.J.NET" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15259332_ico.png?ts=1631352672",A.J.NET
+http://rtmp.logicwebs.in:1935/live/ajnet/playlist.m3u8
+#EXTINF:-1 tvg-name="ACV PLUS" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10633818_ico.png?ts=1631352639",ACV PLUS
+https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ACV NEWS" tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10814758_ico.png?ts=1631352622",ACV NEWS
+https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
