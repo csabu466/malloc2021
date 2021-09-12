@@ -198,4 +198,6 @@ https://5a1178b42cc03.streamlock.net/8024/8024/playlist.m3u8
 #EXTINF:66, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12606869_ico.png?ts=1631399322"tvg-name="CD NEWS  "  group-title="Local Channel",CD NEWS 
 https://5a1178b42cc03.streamlock.net/8174/8174/playlist.m3u8
 
+#EXTINF:67, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15619223_ico.png?ts=1631444125"tvg-name="MOVIE M  "  group-title="Local Channel",MOVIE M 
+https://5a1178b42cc03.streamlock.net/8178/8178/playlist.m3u8
 
