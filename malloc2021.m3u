@@ -9,7 +9,7 @@ https://live.wmncdn.net/goodnesstv1/live1.stream/index.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10786607_ico.png?ts=1631354165" tvg-name="SHALOM TV"  group-title="Christian Devotional",SHALOM TV
 https://playback.akamaized.net/streams/25038049_7483919_lsibz7klyej46r8pryr_1/media/25038049_7483919_lsibz7klyej46r8pryr_1@2756000p.m3u8?dw=14400&ts=1631390400&hdnts=exp=1631563529~acl=/streams/25038049_7483919_lsibz7klyej46r8pryr_1/media*~hmac=9d11ddbee153e6c82479c43181e25026db9806731a52e740d5d89a6731f0c0e1
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12606873_ico.png?ts=1631354182" tvg-name="SHALOM AMERICA"  group-title="Christian Devotional",SHALOM AMERICA
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12606873_ico.png?ts=1631972866" tvg-name="SHALOM AMERICA"  group-title="Christian Devotional",SHALOM AMERICA
 https://playback.akamaized.net/streams/25038049_7987357_lsiue8cvd1bnnfwym0c_1/media/25038049_7987357_lsiue8cvd1bnnfwym0c_1@2756000p.m3u8?dw=14400&ts=1631390400&hdnts=exp=1631565153~acl=/streams/25038049_7987357_lsiue8cvd1bnnfwym0c_1/media*~hmac=e5e3c4a5d250bbd851006fc2e17e49bb1d06ee0eb81ca8102d02ceb41fa9b49d
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10817250_ico.png?ts=1631352885" tvg-name="HARVEST TV"  group-title="Christian Devotional",HARVEST TV
