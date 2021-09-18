@@ -183,8 +183,8 @@ https://5a1178b42cc03.streamlock.net/8178/8178/playlist.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12108920_ico.png?ts=1631446020" tvg-name="CCV"  group-title="Local Channel",CCV
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="WE ONE NEWS"  group-title="Local Channel",WE ONE NEWS
-http://123.456.789
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11334371_ico.png?ts=1631972076" tvg-name="WE ONE NEWS"  group-title="Local Channel",WE ONE NEWS
+https://weone.livebox.co.in/weonehls/weone.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/11259446_ico.png?ts=1631354096" tvg-name="RASI MALAYALAM HD"  group-title="Local Channel",RASI MALAYALAM HD
 http://singamcloud.in/rasinetwork/rasimalayalam/playlist.m3u8
@@ -203,6 +203,13 @@ https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10814758_ico.png?ts=1631352622" tvg-name="ACV NEWS"  group-title="Local Channel",ACV NEWS
 https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15740753_ico.png?ts=1631970547" tvg-name="ACV"  group-title="Local Channel",ACV
+https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15740756_ico.png?ts=1631971436" tvg-name="ACV Medley"  group-title="Local Channel",ACV Medley
+https://acv.asianetmobiletvplus.com/webstreams/95ef9473f8e0c8898d58b16300dbb7b5/playlist.m3u8
+
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15737308_ico.png?ts=1631953167" tvg-name="TCV"  group-title="Local Channel",TCV
 https://stream.ufworldind.in/tcv/tcv/playlist.m3u8
@@ -225,11 +232,6 @@ http://rv.therevenge.co:80/live/692653432434504/692653432434504/83890.m3u8?check
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12606868_ico.png?ts=1631965319" tvg-name="Dream Media"  group-title="Local Channel",Dream Media
 https://cloudflare-cdn301.ottpro.in/dream_media/reedeem/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15740753_ico.png?ts=1631970547" tvg-name="ACV"  group-title="Local Channel",ACV
-https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
-
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15738986_ico.png?ts=1631970575" tvg-name="Magna Vision Tv"  group-title="Local Channel",Magna Vision Tv
 https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist_dvr.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15740756_ico.png?ts=1631971436" tvg-name="ACV Medley"  group-title="Local Channel",ACV Medley
-https://acv.asianetmobiletvplus.com/webstreams/95ef9473f8e0c8898d58b16300dbb7b5/playlist.m3u8
