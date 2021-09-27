@@ -4,9 +4,9 @@ http://xlbor3kkqvaj-hls-live.wmncdn.net/gregoriantv/86d7fdf25c11d39dd3ca51c99218
 #EXTINF:-1  tvg-id="New EPG" group-title="Christian Devotional" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10817692_ico.png?ts=1631352836",GOODNESS TV
 https://live.wmncdn.net/goodnesstv1/live1.stream/index.m3u8
 #EXTINF:-1  tvg-id="New EPG" group-title="Christian Devotional" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10786607_ico.png?ts=1631354165",SHALOM TV
-https://playback.akamaized.net/streams/25038049_7483919_lsibz7klyej46r8pryr_1/media/25038049_7483919_lsibz7klyej46r8pryr_1@2756000p.m3u8?dw=14400&ts=1631390400&hdnts=exp=1631563529~acl=/streams/25038049_7483919_lsibz7klyej46r8pryr_1/media*~hmac=9d11ddbee153e6c82479c43181e25026db9806731a52e740d5d89a6731f0c0e1
+https://player-api.new.livestream.com/accounts/25038049/events/7483919/broadcasts/226169099.secure.m3u8?dw=14400&hdnea=st%3D1632741236~exp%3D1632743036~acl%3D%2Fi%2F25038049_7483919_lsift21vimnmfi1qlei_1%40318851%2F%2A~hmac%3D4b40e7d67f08412817660d2dbe1a5c84ff088c6e7152470b0c061de1aab715c1&token=6151a8a0_b3fdd75a14b83829dd8fffb54ac7dda63a5d692a
 #EXTINF:-1  tvg-id="New EPG" group-title="Christian Devotional" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12606873_ico.png?ts=1631972866",SHALOM AMERICA
-https://playback.akamaized.net/streams/25038049_7987357_lsiue8cvd1bnnfwym0c_1/media/25038049_7987357_lsiue8cvd1bnnfwym0c_1@2756000p.m3u8?dw=14400&ts=1631390400&hdnts=exp=1631565153~acl=/streams/25038049_7987357_lsiue8cvd1bnnfwym0c_1/media*~hmac=e5e3c4a5d250bbd851006fc2e17e49bb1d06ee0eb81ca8102d02ceb41fa9b49d
+https://player-api.new.livestream.com/accounts/25038049/events/7511845/broadcasts/226172114.secure.m3u8?dw=14400&hdnea=st%3D1632742075~exp%3D1632743875~acl%3D%2Fi%2F25038049_7511845_lsi9xxzsvkd2ku1uyxn_1%40446872%2F%2A~hmac%3Da5e8e5567c3ead07f2cd3a62740a1876ac6bd2189e2faf008127c0c063990beb&token=6151abe7_627a8193e07e367eaa7a43155576025c68f86cdf
 #EXTINF:-1  tvg-id="New EPG" group-title="Christian Devotional" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10817250_ico.png?ts=1631352885",HARVEST TV
 https://live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/chunks.m3u8
 #EXTINF:-1  tvg-id="New EPG" group-title="Christian Devotional" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10816624_ico.png?ts=1631353782",POWER VISION
@@ -18,7 +18,7 @@ http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_MOVIE-in/index.m3u8?token=rk
 #EXTINF:-1  tvg-id="New EPG" group-title="Movies" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10712715_ico.png?ts=1631953591",Surya Movies
 http://212.224.98.196:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=rk
 #EXTINF:-1  tvg-id="New EPG" group-title="Kids" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10634360_ico.png?ts=1631875302",Kochu_TV
-http://watchindia.net:8880/live/33253/72963/290.m3u8
+http://watchindia.net:8880/live/54739/54739/290.m3u8
 #EXTINF:-1  tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10633878_ico.png?ts=1631352655",ANAND TV HD
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="New EPG" group-title="Local Channel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/12108920_ico.png?ts=1631352704",CCV
